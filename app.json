@@ -26,7 +26,7 @@
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
-      "baseUrl": "/SafeKitApp"
+      "baseUrl": "/Aplicacao-Portal-de-Emergencia"
     }
   }
 }
